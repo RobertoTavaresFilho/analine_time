@@ -1,4 +1,4 @@
-# analine_time
+# analise_time
 ✅ Loops for percorrendo listas e dicionários 
 
 ✅ Condicionais if/elif/else 
